@@ -19,7 +19,7 @@ h2 {
   letter-spacing: 3px;
 }
 .header {
-  background-color: rgb(104, 104, 104);
+  background-color: rgba(0, 0, 0, 0.811);
   display: flex;
   justify-content: space-around;
   align-items: center;
